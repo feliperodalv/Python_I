@@ -8,5 +8,5 @@ The Python Programming Professional Improvement course aims to develop skills re
 - Program 2D games in Python
 - Validate software using tests
 
-- ![image](https://github.com/ailton-santos/Python_Fundamental_Classes/assets/64874024/ab5410b7-de68-4b0a-96df-10b64f13dd8f)
+  ![image](https://github.com/ailton-santos/Python_Fundamental_Classes/assets/64874024/ab5410b7-de68-4b0a-96df-10b64f13dd8f)
 
